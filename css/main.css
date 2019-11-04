@@ -16,7 +16,6 @@ html {
   overflow: hidden;
   border: 1px solid #ccc;
   border-radius: 0 6px 6px;
-
 }
 .card-body {
   padding: .2rem 1rem;
@@ -28,7 +27,7 @@ html {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 100%
+  width: 100%;
 }
 
 .card-label {
@@ -38,7 +37,6 @@ html {
   position: absolute;
   left: 0;
   top: 0;
-
 }
 
 .card-head {
