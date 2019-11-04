@@ -32,3 +32,7 @@ box-sizing: border-box;
   border-left: 4px solid green;
   background-color: rgba(255,255,255, .6);
 }
+
+.card-head {
+  position: relative;
+}
